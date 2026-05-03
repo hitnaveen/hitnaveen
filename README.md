@@ -22,15 +22,15 @@ Currently deepening my skills in ML and looking for data science internships or 
 
 ## Projects
 
-### 🔬 Customer Segmentation Analysis *(in progress)*
+###  Customer Segmentation Analysis *(in progress)*
 Applying clustering techniques to segment customers by behaviour and purchase patterns. Goal: surface actionable segments a business could act on, not just clusters on a chart.
 `Python` `scikit-learn` `KMeans` `pandas`
 
-### ⚙️ Python CI Pipeline with GitHub Actions
+###  Python CI Pipeline with GitHub Actions
 Set up automated testing and script execution on push using GitHub Actions. Demonstrates understanding of CI/CD fundamentals — not a data project, but shows I care about code quality.
 `GitHub Actions` `Python` `CI/CD` → [repo](https://github.com/hitnaveen/program2)
 
-### 🗂️ Student Management System
+###  Student Management System
 A menu-driven CLI application to add, view, and update student records. Built as a hands-on OOP exercise in Python — classes, encapsulation, and user input handling.
 `Python` `OOP` `CLI` → [repo](https://github.com/hitnaveen/student-management-system-python)
 
@@ -38,10 +38,10 @@ A menu-driven CLI application to add, view, and update student records. Built as
 
 ## Currently
 
-- 📚 Studying for my MSc in Data Science
-- 🔨 Building a customer segmentation project with real-world data
-- 📖 Learning about feature engineering and model evaluation
-- 🎯 Looking for data science internships or entry-level roles in analytics/ML
+-  Studying for my MSc in Data Science
+-  Building a customer segmentation project with real-world data
+-  Learning about feature engineering and model evaluation
+-  Looking for data science internships or entry-level roles in analytics/ML
 
 ---
 
