@@ -1,12 +1,12 @@
-# Hi, I'm Naveen 👋
+# Hi, I'm Naveen 
 
 MSc Data Science student · Analytics · Python · Hyderabad, India
 
-I'm a data science postgrad who likes turning messy data into decisions that actually matter. I'm interested in customer analytics, feature engineering, and building things that are useful — not just technically impressive.
+I'm a data science postgrad who likes turning messy data into decisions that actually matter. I'm interested in customer analytics, feature engineering, and building things that are useful, not just technically impressive.
 
 Currently deepening my skills in ML and looking for data science internships or grad roles where I can contribute from day one.
 
----
+
 
 ## What I work with
 
