@@ -1,52 +1,43 @@
-# Hi, I'm Naveen 
+### Hi, I'm Naveen 👋
 
-MSc Data Science student · Analytics · Python · Hyderabad, India
+Data Analyst pursuing an **M.Sc. in Data Science** (final semester, Osmania University), with hands-on experience across **SQL, Python, Power BI, and applied statistics/ML**. I like turning messy, real-world data into validated datasets and decisions people can act on.
 
-I'm a data science postgrad who likes turning messy data into decisions that actually matter. I'm interested in customer analytics, feature engineering, and building things that are useful, not just technically impressive.
+- 🔭 Currently building: end-to-end analytics projects (SQL → Python → BI)
+- 🌱 Currently learning: advanced Power BI (DAX), XGBoost tuning
+- 💬 Ask me about: SQL window functions, hypothesis testing, regression/clustering
+- 📫 Reach me: thehnaveen@gmail.com · [LinkedIn](https://linkedin.com/in/hnaveen)
 
-Currently deepening my skills in ML and looking for data science internships or grad roles where I can contribute from day one.
+
+### 🛠️ Skills
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+### 📊 Featured Projects
 
-## What I work with
+**[E-Mart Retail Sales & Customer Analytics](https://github.com/hitnaveen/emart-retail-analytics)**
+End-to-end pipeline on 62,884 transactions · 26,326 orders · 15,266 customers · 2,517 products across 8 countries ($55.7M tracked).
+`Python` `Pandas` `MySQL` `SQL Window Functions` `Power BI`
+- Cleaned & validated 3 raw datasets, reconciling Excel-calculated fields against recalculated values
+- 15+ SQL queries using CTEs and window functions (LAG, RANK, PARTITION BY)
+- Interactive Power BI dashboard for revenue, profit, and customer segmentation
 
-| Area | Tools |
-|---|---|
-| Languages | Python, SQL |
-| Data & analysis | pandas, NumPy, Jupyter |
-| ML & stats | scikit-learn, statsmodels |
-| Visualisation | matplotlib, seaborn |
-| Dev & CI | Git, GitHub Actions |
-
----
-
-## Projects
-
-###  Customer Segmentation Analysis *(in progress)*
-Applying clustering techniques to segment customers by behaviour and purchase patterns. Goal: surface actionable segments a business could act on, not just clusters on a chart.
-`Python` `scikit-learn` `KMeans` `pandas`
-
-###  Python CI Pipeline with GitHub Actions
-Set up automated testing and script execution on push using GitHub Actions. Demonstrates understanding of CI/CD fundamentals — not a data project, but shows I care about code quality.
-`GitHub Actions` `Python` `CI/CD` → [repo](https://github.com/hitnaveen/program2)
-
-###  Student Management System
-A menu-driven CLI application to add, view, and update student records. Built as a hands-on OOP exercise in Python — classes, encapsulation, and user input handling.
-`Python` `OOP` `CLI` → [repo](https://github.com/hitnaveen/student-management-system-python)
-
----
-
-## Currently
-
--  Studying for my MSc in Data Science
--  Building a customer segmentation project with real-world data
--  Learning about feature engineering and model evaluation
--  Looking for data science internships or entry-level roles in analytics/ML
+**[CarSpec Analytics - Automobile Pricing (M.Sc. Capstone)](https://github.com/hitnaveen/carspec-analytics)**
+Statistical + ML analysis of 2,040 vehicles across 57 specifications, submitted to Osmania University.
+`Python` `Statistics` `scikit-learn` `XGBoost` `SHAP`
+- ANOVA, Chi-Square, and Kruskal-Wallis hypothesis testing across vehicle segments
+- Benchmarked 5 regression models - Random Forest best (R² = 0.892)
+- K-Means/Hierarchical clustering + PCA to define 4 market segments; SHAP for interpretability
 
 ---
 
-## Let's connect
+### 📈 GitHub Stats
 
-I'm actively looking for opportunities and always happy to talk data, projects, or potential roles.
-
-[LinkedIn](https://www.linkedin.com/in/hnaveen) · [GitHub](https://github.com/hitnaveen)
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitnaveen&show_icons=true&theme=default)
