@@ -2,13 +2,12 @@
 
 Data Analyst pursuing an **M.Sc. in Data Science** (final semester, Osmania University), with hands-on experience across **SQL, Python, Power BI, and applied statistics/ML**. I like turning messy, real-world data into validated datasets and decisions people can act on.
 
-- 🔭 Currently building: end-to-end analytics projects (SQL → Python → BI)
-- 🌱 Currently learning: advanced Power BI (DAX), XGBoost tuning
-- 💬 Ask me about: SQL window functions, hypothesis testing, regression/clustering
-- 📫 Reach me: thehnaveen@gmail.com · [LinkedIn](https://linkedin.com/in/hnaveen)
+- Currently learning: advanced Power BI (DAX), Advanced SQL
+- Ask me about: SQL window functions, hypothesis testing, regression/clustering
+- Reach me: thehnaveen@gmail.com · [LinkedIn](https://linkedin.com/in/hnaveen)
 
 
-### 🛠️ Skills
+### Skills
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +19,7 @@ Data Analyst pursuing an **M.Sc. in Data Science** (final semester, Osmania Univ
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-### 📊 Featured Projects
+### Featured Projects
 
 **[E-Mart Retail Sales & Customer Analytics](https://github.com/hitnaveen/emart-retail-analytics)**
 End-to-end pipeline on 62,884 transactions · 26,326 orders · 15,266 customers · 2,517 products across 8 countries ($55.7M tracked).
@@ -36,8 +35,7 @@ Statistical + ML analysis of 2,040 vehicles across 57 specifications, submitted 
 - Benchmarked 5 regression models - Random Forest best (R² = 0.892)
 - K-Means/Hierarchical clustering + PCA to define 4 market segments; SHAP for interpretability
 
----
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitnaveen&show_icons=true&theme=default)
